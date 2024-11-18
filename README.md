@@ -30,4 +30,4 @@
 To get started, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/abdtriedcoding/glitch.git
+git clone https://github.com/kuldeeptiwari91/Chit-Chat.git
