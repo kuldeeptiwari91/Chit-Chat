@@ -24,11 +24,6 @@
 - **Delete Message Functionality** ❌
 - **Video Calls** 📹 (built-in video call support)
 
-## 🛠 Prerequisites
-
-Before you begin, make sure you have the following installed on your system:
-
-- **Node.js**: [Download Node.js](https://nodejs.org/)
 
 ## 📂 Cloning the Repository
 
